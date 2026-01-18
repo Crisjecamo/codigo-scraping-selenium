@@ -20,8 +20,8 @@ df_inco_stat_0 = pd.read_csv(r'C:\Users\pc\OneDrive\Escritorio\data_sim_company\
 path_driver = "/usr/local/bin/chromedriver"
 url = "https://www.simcompanies.com/es/signin/"
 
-correo = 'elkata180@gmail.com'
-contraseña = "Castro.25417976"
+correo = 'correo@gmail.com'
+contraseña = "contraseña"
 
 # --- Configuración para Headless ---
 chrome_options = Options()
